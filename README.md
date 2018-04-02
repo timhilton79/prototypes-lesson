@@ -120,3 +120,9 @@ Truck should also have a key value of cargo (which is an array of strings), and 
 Make sure the Truck can (or can't) honk, can rev its engine, and can tow.  Maybe give it a special prototype function.
 
 Drop off one of the cargo items.
+
+Useful links:
+
+[MDN - Object.prototype](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/prototype)
+
+[MDN - Inheritance and the prototype chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)

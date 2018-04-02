@@ -1,3 +1,4 @@
+// Starter Object
 const myCar = {
     make: "Ford",
     model: "Fiesta",
